@@ -1,1 +1,1 @@
-Code for Projects which are in my portfolio. 
+Few small projects I created while getting started. 
